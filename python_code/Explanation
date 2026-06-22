@@ -1,3 +1,4 @@
 In the Optical data analysis file, the code used to analyze the videos and calculate the brightness of each well can be found.
-The Droplet freezing experiment analysis file was used to calculate different physical quantities, these being the frozen fraction, the cumulative nucleus spectrum, 
-the mean and onset freezing temperatures, the heterogeneous nucleation rate, and the homogeneous nucleation rate.
+The Droplet freezing experiment analysis file was used to calculate different physical quantities, these being the frozen fraction,
+the cumulative nucleus spectrum, the mean and onset freezing temperatures, the heterogeneous nucleation rate, 
+and the homogeneous nucleation rate.

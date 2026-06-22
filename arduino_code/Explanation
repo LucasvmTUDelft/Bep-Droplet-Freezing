@@ -1,0 +1,2 @@
+In this folder, the Arduino code used to write temperature from three MAX31865 amplifiers (Adafruit) with Pt100 4-wire sensors onto a microSD card 
+breakout board (Adafruit) can be found. A DS3231 RTC module is also used to keep track of the time. Temperatures are displayed on an I2C LCD display.
